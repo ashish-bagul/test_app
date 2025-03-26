@@ -1,0 +1,9 @@
+Git is a distributed version control system.
+It tracks the version of files.
+It is used by software developers to share the code.
+
+Branches
+Main/Master - production branch
+dev - development branch
+Working/Feature/Issue branch - branch for a specific task
+Hotfix - to fix urgent changes in production

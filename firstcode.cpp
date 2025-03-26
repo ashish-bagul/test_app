@@ -9,5 +9,8 @@ int main() {
     cout << "Hello " << name << "!" << endl;
     cout << "Good evening!" << endl;
     cout << "Happy Programming!" << endl;
+    cout << "Hello World" << endl;
+    cout << "Hello India" << endl;
+    cout << "C++ is good." << endl;
     return 0; 
 }
